@@ -48,7 +48,7 @@ You can find the Python script (`prepare_data.py`) in this repository.
 ## 🌟 **Insights**
 - My preferences lean heavily toward certain genres like Drama and Thriller.
 - Some highly acclaimed movies didn't resonate with me (*sorry, The Godfather!*).
-- Directors like Peter Jackson and James Cameron consistently impressed me.
+- Directors like Peter Jackson and Denis Villeneuve consistently impressed me.
 
 ## 💡 **Why This Project?**
 This project combines my passion for movies with data visualization. It's not just about the movies but also a reflection of how data can tell personal stories.
