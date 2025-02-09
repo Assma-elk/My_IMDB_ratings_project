@@ -5,6 +5,10 @@ Welcome to **My Movie Journey: Ratings, Genres & More**, a Tableau dashboard whe
 ## 🎞️ **Live Dashboard**
 [View the interactive Tableau dashboard here](https://public.tableau.com/views/MyMovieJourneyRatingsGenresMore/MyMovieJourneyRatingsGenresMore?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+##🌟 Dashboard Preview
+(Here’s an overview of the interactive dashboard in action)
+![image](https://github.com/user-attachments/assets/8d20c2ba-49c4-433c-8bb4-c19e6bb020b9)
+
 ## 📂 **Dataset**
 The data comes from my [IMDb ratings list](https://m.imdb.com/user/ur175189411/ratings/?sort=date_added%2Casc), reflecting all the movies I've rated over the past 10 months.
 
