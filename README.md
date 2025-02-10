@@ -7,7 +7,7 @@ Welcome to **My Movie Journey: Ratings, Genres & More**, a Tableau dashboard whe
 
 ## 🌟 **Dashboard Preview**
 (Here’s an overview of the interactive dashboard in action)  
-![Dashboard Preview](My_IMDB_ratings_project/MyImdb_dashboard.png)
+![Dashboard Preview](MyImdb_dashboard.png)
 
 ## 📂 **Dataset**
 The data comes from my [IMDb ratings list](https://m.imdb.com/user/ur175189411/ratings/?sort=date_added%2Casc), reflecting all the movies I've rated over the past 10 months.
